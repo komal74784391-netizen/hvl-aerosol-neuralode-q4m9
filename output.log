@@ -1,0 +1,7 @@
+2025-03-02 10:14:22 INFO starting run aerosol-ode-seed17
+2025-03-02 10:14:22 INFO loading observations from data/merra2_aerosol
+2025-03-02 10:14:31 INFO trainable parameters: 1,284,352
+2025-03-02 10:15:02 INFO epoch 1 loss=0.8423 val_rmse=11.42
+2025-03-02 11:02:19 INFO epoch 60 loss=0.2117 val_rmse=4.87
+2025-03-02 11:47:05 INFO epoch 120 loss=0.1734 val_rmse=4.31
+2025-03-02 11:47:06 INFO finished run aerosol-ode-seed17

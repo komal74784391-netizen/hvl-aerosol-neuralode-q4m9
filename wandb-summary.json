@@ -1,0 +1,6 @@
+{
+  "best_val_rmse": 4.31,
+  "best_epoch": 118,
+  "final_train_loss": 0.1734,
+  "runtime_minutes": 93
+}

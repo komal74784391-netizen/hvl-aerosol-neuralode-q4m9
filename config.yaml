@@ -1,0 +1,7 @@
+data_dir: data/merra2_aerosol
+latent_dim: 64
+solver: dopri5
+batch_size: 64
+lr: 0.0005
+epochs: 120
+seed: 17
